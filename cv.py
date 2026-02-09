@@ -1,4 +1,3 @@
-# Python code to read image
 import cv2
 
 # To read image from disk, we use
